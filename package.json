@@ -1,0 +1,37 @@
+{
+  "name": "fastify-kysely-example",
+  "version": "1.0.0",
+  "description": "A simple example for fastify with fastify-kysely plugin",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alenap93/fastify-kysely-example.git"
+  },
+  "keywords": [
+    "fastify",
+    "kysely",
+    "fastify-kysely",
+    "plugin"
+  ],
+  "author": "Alessio Napolitano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alenap93/fastify-kysely-example/issues"
+  },
+  "homepage": "https://github.com/alenap93/fastify-kysely-example#readme",
+  "dependencies": {
+    "better-sqlite3": "^9.6.0",
+    "fastify": "^4.27.0",
+    "fastify-kysely": "^1.0.0",
+    "kysely": "^0.27.3"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.10",
+    "@types/node": "^20.12.11",
+    "typescript": "^5.4.5"
+  }
+}
