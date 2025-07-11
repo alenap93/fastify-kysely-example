@@ -25,7 +25,7 @@
   "homepage": "https://github.com/alenap93/fastify-kysely-example#readme",
   "dependencies": {
     "fastify": "^5.4.0",
-    "fastify-kysely": "^2.0.0",
+    "fastify-kysely": "^2.1.0",
     "better-sqlite3": "^12.2.0",
     "kysely": "^0.28.2"
   },
