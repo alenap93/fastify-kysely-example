@@ -27,7 +27,7 @@
     "fastify": "^5.5.0",
     "fastify-kysely": "^2.1.0",
     "better-sqlite3": "^12.2.0",
-    "kysely": "^0.28.3"
+    "kysely": "^0.28.5"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.13",
